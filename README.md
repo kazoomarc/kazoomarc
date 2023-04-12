@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @kazoomarc
-- 👀 I’m interested in computer science and security
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on any project mostly on developing applications for computers and mobile
+### Hello I'm JOEL MWALA
+
+- Hi, I’m @kazoomarc
+- I’m a **computer science** & **software Enginering** student
+- Interested in Algorithms
+- I’m currently learning data structures and Algorithms
+- Readily available to colaborate on any project
+- Speciality: **`Java, HTML, Javascript, Python, C++ and C`**
 - 🌐 https://www.joelmwala.tech 
-- 📫 How to reach me...facebook: https://www.facebook.com/profile.php?id=100028394414962
+- https://www.facebook.com/kazoomarc
 
 <!---
 kazoomarc/kazoomarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
