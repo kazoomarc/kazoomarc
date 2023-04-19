@@ -1,4 +1,4 @@
-### Hi there 👋, Hello I'm Joel Mwala
+### Hi there 👋, I'm Joel Mwala
 #### I’m a computer science & software Enginering student
 
 Skills: Java, HTML, Javascript, Python, C++ and C
