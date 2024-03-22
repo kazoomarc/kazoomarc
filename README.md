@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Joel Mwala
-#### I’m a computer science & software Enginering student
+#### I’m a computer science & software Engineering student at the university of Malawi
 
 Skills: Java, HTML, Javascript, Python, C++ and C
 
+- 🌐 Web Applications developer
 - 🌱 I’m currently learning Data structures and Algorithms 
 
 
