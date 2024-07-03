@@ -6,8 +6,9 @@ Skills: Java, HTML, Javascript, Python, C++ and C
 - 🌐 Web Applications developer
 - 🌱 I’m currently learning Data structures and Algorithms 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kazoomarc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kazoomarc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Kazoomarc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/joelmwala7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.joelmwala.tech)  
+[LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/kazoomarc//) 
+[Facebook](https://www.facebook.com/https://www.facebook.com/Kazoomarc) 
+[Twitter](https://twitter.com/https://twitter.com/joelmwala7) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazoomarc)](https://github.com/anuraghazra/github-readme-stats)
 
